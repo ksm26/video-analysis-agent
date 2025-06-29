@@ -1,0 +1,8 @@
+﻿ultralytics
+opencv-python
+langchain
+huggingface_hub
+langchain-community
+python-dotenv
+accelerate
+ffmpeg

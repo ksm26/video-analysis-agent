@@ -1,0 +1,3 @@
+﻿Click "Login"
+Enter Password
+Submit Form
