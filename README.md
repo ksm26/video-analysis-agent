@@ -87,6 +87,11 @@ python run_agent.py
 
 Reports are generated in `reports/` with timestamps.
 
+Example:
+
+`reports/run1_detailed_report_20240628_153020.txt` \
+`reports/run1_detailed_report_20240628_153020.html`
+
 ### 📊 Sample Output
 
 ```bash
@@ -121,6 +126,7 @@ Proofs Video: data/videos/run1.mp4
 Planner Thoughts Log: ./log_files/run1_planner_thoughts.log
 Chat Messages Log: ./log_files/run1_chat_messages.log
 ```
+
 ### 🛠 Requirements
 - Python 3.8+
 - Tested with flan-t5-small for AI tasks
