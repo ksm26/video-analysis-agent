@@ -93,6 +93,15 @@ Example:
 `reports/run1_detailed_report_20240628_153020.txt` \
 `reports/run1_detailed_report_20240628_153020.html`
 
+### 📊 Outlines
+`Video → Frames → YOLO Detections →  AI Agent` \
+   ` AI Agent: `\
+   ` - Uses LLM to parse Planning Log (extract steps)` \
+   ` - Matches steps to YOLO results (Was action observed?) `\
+   ` - Flags deviations or missing actions` \
+   ` - Generates final report with reasoning`
+
+
 ### 📊 Sample Output
 
 ```bash
